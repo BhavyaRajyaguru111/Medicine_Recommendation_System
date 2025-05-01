@@ -172,7 +172,7 @@ R, spss, Python, Flask, ML, DL, NLP, Render, MySQL, PowerBI, Excel, MLOps, Docke
 
 ## Feedback
 
-If you have any feedback, please reach out to us at dhanawadeganesh386@gmail.com
+If you have any feedback, please reach out to us at king121knight@gmail.com.
 
 
 ## 🔗 Links
