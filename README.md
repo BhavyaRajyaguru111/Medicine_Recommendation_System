@@ -154,7 +154,7 @@ Install my-project with npm
 ```
     
 
-# Hi, I'm Ganesh! 👋
+# Hi, I'm Bhavya! 👋
 
 
 ## 🚀 About Me
