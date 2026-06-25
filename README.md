@@ -154,7 +154,7 @@ Install my-project with npm
 ```
     
 
-# Hi, I'm Ganesh! 👋
+# Hi, I'm Bhavya! 👋
 
 
 ## 🚀 About Me
@@ -168,15 +168,3 @@ R, spss, Python, Flask, ML, DL, NLP, Render, MySQL, PowerBI, Excel, MLOps, Docke
 ![Logo](https://camo.githubusercontent.com/3cdf9577401a2c7dceac655bbd37fb2f3ee273a457bf1f2169c602fb80ca56f8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)
 ![images](https://user-images.githubusercontent.com/109405138/209291383-14f3f225-e593-4b1b-a506-54db907bb433.png)
 ![download](https://user-images.githubusercontent.com/109405138/209292205-98d13147-5a84-47d3-82eb-870197067abf.png)
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at dhanawadeganesh386@gmail.com
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Ganeshdhanawade/Data-Science-Portfolio)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-dhanawade-47653b201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzQkwQvdBRCyb0AhsyHF%2BdQ%3D%3D)
-
-
